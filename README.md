@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhakrishnachinna&label=Profile%20views&color=0e75b6&style=flat" alt="radhakrishnachinna" /> </p>
 
-- 💬 Ask me about **Ask me about data, code, and everything in between**
+- 💬 Ask me about **data, code, and everything in between**
 
 - 📫 How to reach me **radhakrishnamaradana22@gmail.com**
 
